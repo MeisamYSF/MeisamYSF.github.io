@@ -3,7 +3,8 @@ title: "Meisam Yousefi, Ph.D."
 subtitle: "Research Fellow at Duke-NUS Medical School"
 image: media/4.jpg
 toc: false
-about: 
+about:
+  id: hero-heading
   template: trestles
   image-shape: round
   image-width: 9em
@@ -14,9 +15,6 @@ about:
     - icon: github
       text: github
       href: https://github.com/MeisamYSF
-    - icon: envelope
-      text: mail
-      href: mailto:yousefi@nus.edu.sg
     #- icon: orcid
     #  text: orcid
     #  href: https://orcid.org/0000-0002-7346-803X
@@ -26,9 +24,12 @@ about:
     #- icon: bluesky
     #  text: bluesky
     #  href: https://bsky.app/profile/meisamysf.bsky.social
+    - icon: envelope
+      text: mail
+      href: mailto:yousefi@nus.edu.sg
 ---
 
-### Bio:
+:::{#hero-heading}
 
 I have a solid foundation in molecular biology, genetics, and microbiology, with a keen interest in data science and bioinformatics. I'm passionate about using my molecular and computational skills to tackle infectious diseases, with a special focus on emerging and re-emerging viral pathogens such as Dengue virus and SARS-CoV-2. As a team player, I excel in collaborating with both wet and dry lab researchers and engaging diverse audiences.
 
@@ -42,14 +43,20 @@ I have a solid foundation in molecular biology, genetics, and microbiology, with
 
 Doctor of Philosophy *(joint Ph.D.)* in Integrated Biology and Medicine \| 2019-2024
 
-<br />
-
 **Duke University** \| Durham, NC
 
 Doctor of Philosophy *(joint Ph.D.)* in Integrated Biology and Medicine \| 2019-2024
 
-<br />
-
 **University of Tehran** \| Tehran, Iran
 
 Continuous Master of Science *(B.Sc./M.Sc.)* in Biotechnology \| 2012-2019
+
+<br />
+
+### Experience:
+
+<br />
+
+**Duke-NUS Medical School** \| Research Fellow \| 2024 - present
+
+:::
