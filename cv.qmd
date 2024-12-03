@@ -1,5 +1,5 @@
 ---
-title: Curriculum vitae
+title: "Curriculum vitae"
 date: 2024-12-03
 published-title: CV last updated
 engine: knitr
