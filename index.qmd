@@ -1,11 +1,33 @@
 ---
-title: "MeisamYSF.github.io"
+title: "Meisam Yousefi, Ph.D."
+subtitle: "Research Fellow at Duke-NUS Medical School"
+image: media/4.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/meisamyousefi
+    - text: GitHub
+      href: https://github.com/MeisamYSF
+    - text: Email
+      href: yousefi@nus.edu.sg
 ---
 
-This is a Quarto website.
+I have a solid foundation in molecular biology, genetics, and microbiology, with a keen interest in data science and bioinformatics. I'm passionate about using my molecular and computational skills to tackle infectious diseases, with a special focus on emerging and re-emerging viral pathogens such as Dengue virus and SARS-CoV-2. As a team player, I excel in collaborating with both wet and dry lab researchers and engaging diverse audiences.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Education:
 
-```{r}
-1 + 1
-```
+**National University of Singapore,** 2019-2024
+
+Doctor of Philosophy *(joint Ph.D.)*, Integrated Biology and Medicine
+
+**Duke University,** 2019-2024
+
+Doctor of Philosophy *(joint Ph.D.)*, Integrated Biology and Medicine
+
+**University of Tehran,** 2012-2019
+
+Continuous Master of Science *(B.Sc./M.Sc.)*, Biotechnology
