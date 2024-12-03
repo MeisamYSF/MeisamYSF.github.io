@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Curriculum vitae",
     "section": "",
-    "text": "Built with Quarto and GitHub Pages."
+    "text": "Download current CV\n  \n\n\n\n  \n\n\nSource code for pdf insertion in quarto is taken from Andrew Heiss (https://github.com/andrewheiss/ath-quarto/blob/main/cv/index.qmd)"
   },
   {
     "objectID": "pub.html",

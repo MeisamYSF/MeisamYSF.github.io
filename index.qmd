@@ -29,8 +29,7 @@ about:
       href: mailto:yousefi@nus.edu.sg
 ---
 
-:::{#hero-heading}
-
+::: {#hero-heading}
 I have a solid foundation in molecular biology, genetics, and microbiology, with a keen interest in data science and bioinformatics. I'm passionate about using my molecular and computational skills to tackle infectious diseases, with a special focus on emerging and re-emerging viral pathogens such as Dengue virus and SARS-CoV-2. As a team player, I excel in collaborating with both wet and dry lab researchers and engaging diverse audiences.
 
 <br />
@@ -58,5 +57,4 @@ Continuous Master of Science *(B.Sc./M.Sc.)* in Biotechnology \| 2012-2019
 <br />
 
 **Duke-NUS Medical School** \| Research Fellow \| 2024 - present
-
 :::
