@@ -26,5 +26,12 @@
     "title": "Meisam Yousefi, Ph.D.",
     "section": "Skills",
     "text": "Skills\n\nMolecular Biology\nBioinformatics\nGenetics\nFunctional Genomics\nData Analysis\nData Visualisation\nVirology"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n\n  \n\n\nSource code for pdf insertion in quarto is taken from Andrew Heiss (https://github.com/andrewheiss/ath-quarto/blob/main/cv/index.qmd)"
   }
 ]
