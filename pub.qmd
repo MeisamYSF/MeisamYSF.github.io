@@ -24,15 +24,15 @@ Ng, W. C., Kwek, S. S., Sun, B., **Yousefi, M.**, Ong, E. Z., Tan, H. C., Puschn
 
 **Yousefi, M.**, Marashi, S. A., Sharifi-Zarchi, A. and Taleahmad, S., (2019). [The metabolic network model of primed/naive human embryonic stem cells underlines the importance of oxidation-reduction potential and tryptophan metabolism in primed pluripotency](https://cellandbioscience.biomedcentral.com/articles/10.1186/s13578-019-0334-7). *Cell & Bioscience*, 9(1), p.71.
 
-Taleahmad, S., Alikhani, M., Mollamohammadi, S., **Yousefi, M.**, Taei, A., Hassani, S. N., Baharvand, H. and Salekdeh, G. H., (2019). [Inhibition of Human Y Chromosome Gene, SRY, Promotes Naive State of Human Pluripotent Stem Cells](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00396%7D%7BInhibition). *Journal of Proteome Research*, 18(12), pp.4254-4261.
+Taleahmad, S., Alikhani, M., Mollamohammadi, S., **Yousefi, M.**, Taei, A., Hassani, S. N., Baharvand, H. and Salekdeh, G. H., (2019). [Inhibition of Human Y Chromosome Gene, SRY, Promotes Naive State of Human Pluripotent Stem Cells](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00396). *Journal of Proteome Research*, 18(12), pp.4254-4261.
 
-Sababi, M., Marashi, S. A., Pourmajidian, M., Pourtabatabaei, S. S., Darki, F., Sadrzadeh, M. R., Dehghani, M., Zandieh, A., Zim, M. K., **Yousefi, M.**, Jamalkhah, M., Tabatabaei, S. K., Safaeifard, F., Talaei, A., Sobat, M., Moakedi, F., and Nejadi, P., (2017). [How accessibility influences citation counts: The case of citations to the full text articles available from ResearchGate](https://riviste.unimi.it/index.php/roars/article/view/7997%7D%7BHow). *RT. A Journal on Research Policy and Evaluation*, 5(1). (1,0) 428
+Sababi, M., Marashi, S. A., Pourmajidian, M., Pourtabatabaei, S. S., Darki, F., Sadrzadeh, M. R., Dehghani, M., Zandieh, A., Zim, M. K., **Yousefi, M.**, Jamalkhah, M., Tabatabaei, S. K., Safaeifard, F., Talaei, A., Sobat, M., Moakedi, F., and Nejadi, P., (2017). [How accessibility influences citation counts: The case of citations to the full text articles available from ResearchGate](https://riviste.unimi.it/index.php/roars/article/view/7997). *RT. A Journal on Research Policy and Evaluation*, 5(1). (1,0) 428
 
 ### Review articles:
 
 See, W. R., **Yousefi, M.**, and Ooi, Y. S. (2024). [A review of virus host factor discovery using CRISPR screening](https://journals.asm.org/doi/10.1128/mbio.03205-23). *mBio* 0:e03205-23.
 
-Lee, W. S.\*, **Yousefi, M.\***, Yan, B., Yong, C. L., and Ooi, Y. S. (2021). [Know your enemy and know yourself -- the case of SARS-CoV-2 host factors](https://www.sciencedirect.com/science/article/pii/S1879625721000948%7D%7BKnow). *Current Opinion in Virology*, 50, 159-170.
+Lee, W. S.\*, **Yousefi, M.\***, Yan, B., Yong, C. L., and Ooi, Y. S. (2021). [Know your enemy and know yourself -- the case of SARS-CoV-2 host factors](https://www.sciencedirect.com/science/article/pii/S1879625721000948). *Current Opinion in Virology*, 50, 159-170.
 
 -   Featured on the journal cover
 -   Co-first author
