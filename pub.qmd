@@ -6,6 +6,8 @@ title: "Publications"
 
 *Currently N.A.*
 
+<br />
+
 ### Research articles:
 
 **Yousefi, M. \#**, See, W. R., Aw-Yang, K. L., Lee, W. S., Yong, C. L., Fanusi, F., Smith, G. J. D., Ooi, E. E., Li, S., Ghosh, S., and Ooi, Y. S. **\#** (2024). [GeneRaMeN enables integration, comparison, and meta-analysis of multiple ranked gene lists to identify consensus, unique, and correlated genes](https://academic.oup.com/bib/article/25/5/bbae452/7760131). *Briefings in Bioinformatics*, 25(5), bbae452.
@@ -27,6 +29,8 @@ Ng, W. C., Kwek, S. S., Sun, B., **Yousefi, M.**, Ong, E. Z., Tan, H. C., Puschn
 Taleahmad, S., Alikhani, M., Mollamohammadi, S., **Yousefi, M.**, Taei, A., Hassani, S. N., Baharvand, H. and Salekdeh, G. H., (2019). [Inhibition of Human Y Chromosome Gene, SRY, Promotes Naive State of Human Pluripotent Stem Cells](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00396). *Journal of Proteome Research*, 18(12), pp.4254-4261.
 
 Sababi, M., Marashi, S. A., Pourmajidian, M., Pourtabatabaei, S. S., Darki, F., Sadrzadeh, M. R., Dehghani, M., Zandieh, A., Zim, M. K., **Yousefi, M.**, Jamalkhah, M., Tabatabaei, S. K., Safaeifard, F., Talaei, A., Sobat, M., Moakedi, F., and Nejadi, P., (2017). [How accessibility influences citation counts: The case of citations to the full text articles available from ResearchGate](https://riviste.unimi.it/index.php/roars/article/view/7997). *RT. A Journal on Research Policy and Evaluation*, 5(1). (1,0) 428
+
+<br />
 
 ### Review articles:
 

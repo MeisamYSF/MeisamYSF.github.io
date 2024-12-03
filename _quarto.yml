@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Meisam Yousefi"
+  # favicon: logo.png
+  twitter-card: true
+  site-url: https://MeisamYSF.github.io
   navbar:
     left:
       - href: index.qmd
