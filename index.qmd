@@ -10,51 +10,54 @@ about:
   image-width: 9em
   links:
     - icon: twitter
-      text: twitter
-      href: https://x.com/MeisamYsf
+      text: Twitter
+      href: https://twitter.com/MeisamYsf
     - icon: github
-      text: github
+      text: Github
       href: https://github.com/MeisamYSF
-    #- icon: orcid
-    #  text: orcid
-    #  href: https://orcid.org/0000-0002-7346-803X
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=qzukBXgAAAAJ&hl=en
     - icon: linkedin
-      text: linkedin
+      text: Linkedin
       href: https://www.linkedin.com/in/meisamyousefi
-    #- icon: bluesky
-    #  text: bluesky
-    #  href: https://bsky.app/profile/meisamysf.bsky.social
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Meisam-Yousefi
+    # - text: "{{< fa brands bluesky >}}" bluesky
+    #   href: https://bsky.app/profile/meisamysf.bsky.social
+    - text: "{{< ai orcid >}} ORCID"
+      href:  https://orcid.org/0000-0002-7346-803X
+      target: _blank
+    # - text: "{{< ai clarivate >}} Web of Science"
+    #   href: https://www.webofscience.com/wos/author/record/1932439
+    #   target: _blank
+    # - text: "{{< ai scopus >}} Scopus"
+    #   href: https://www.scopus.com/authid/detail.uri?authorId=57220100395
     - icon: envelope
-      text: mail
+      text: email
       href: mailto:yousefi@nus.edu.sg
 ---
 
 ::: {#hero-heading}
+### Bio:
+
 I have a solid foundation in molecular biology, genetics, and microbiology, with a keen interest in data science and bioinformatics. I'm passionate about using my molecular and computational skills to tackle infectious diseases, with a special focus on emerging and re-emerging viral pathogens such as Dengue virus and SARS-CoV-2. As a team player, I excel in collaborating with both wet and dry lab researchers and engaging diverse audiences.
 
 <br />
 
 ### Education:
 
-<br />
-
-**National University of Singapore** \| Singapore, Singapore
-
+**National University of Singapore** \| Singapore, Singapore\
 Doctor of Philosophy *(joint Ph.D.)* in Integrated Biology and Medicine \| 2019-2024
 
-**Duke University** \| Durham, NC
-
+**Duke University** \| Durham, NC\
 Doctor of Philosophy *(joint Ph.D.)* in Integrated Biology and Medicine \| 2019-2024
 
-**University of Tehran** \| Tehran, Iran
-
+**University of Tehran** \| Tehran, Iran\
 Continuous Master of Science *(B.Sc./M.Sc.)* in Biotechnology \| 2012-2019
 
 <br />
 
 ### Experience:
-
-<br />
 
 **Duke-NUS Medical School** \| Research Fellow \| 2024 - present
 :::
