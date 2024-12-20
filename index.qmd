@@ -7,7 +7,7 @@ about:
   id: hero-heading
   template: trestles
   image-shape: round
-  image-width: 9em
+  image-width: 10em
   links:
     - icon: twitter
       text: Twitter
