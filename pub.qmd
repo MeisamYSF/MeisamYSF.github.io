@@ -4,7 +4,7 @@ title: "Publications"
 
 ### Pre-prints:
 
-*Currently N.A.*
+*TBA*
 
 <br />
 
@@ -49,9 +49,6 @@ title: "Publications"
     <div>
 
     -   Featured on the journal cover
-
-    <!-- -->
-
     -   Co-first author
 
     </div>

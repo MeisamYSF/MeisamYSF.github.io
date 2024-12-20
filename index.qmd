@@ -38,26 +38,24 @@ about:
 ---
 
 ::: {#hero-heading}
-### Bio:
-
 I have a solid foundation in molecular biology, genetics, and microbiology, with a keen interest in data science and bioinformatics. I'm passionate about using my molecular and computational skills to tackle infectious diseases, with a special focus on emerging and re-emerging viral pathogens such as Dengue virus and SARS-CoV-2. As a team player, I excel in collaborating with both wet and dry lab researchers and engaging diverse audiences.
 
 <br />
 
 ### Education:
 
-**National University of Singapore** \| Singapore, Singapore\
-Doctor of Philosophy *(joint Ph.D.)* in Integrated Biology and Medicine \| 2019-2024
+-   **National University of Singapore** \| Singapore, Singapore\
+    Doctor of Philosophy *(joint Ph.D.)* in Integrated Biology and Medicine \| 2019-2024
 
-**Duke University** \| Durham, NC\
-Doctor of Philosophy *(joint Ph.D.)* in Integrated Biology and Medicine \| 2019-2024
+-   **Duke University** \| Durham, NC\
+    Doctor of Philosophy *(joint Ph.D.)* in Integrated Biology and Medicine \| 2019-2024
 
-**University of Tehran** \| Tehran, Iran\
-Continuous Master of Science *(B.Sc./M.Sc.)* in Biotechnology \| 2012-2019
+-   **University of Tehran** \| Tehran, Iran\
+    Continuous Master of Science *(B.Sc./M.Sc.)* in Biotechnology \| 2012-2019
 
 <br />
 
 ### Experience:
 
-**Duke-NUS Medical School** \| Research Fellow \| 2024 - present
+-   **Duke-NUS Medical School** \| Research Fellow \| 2024 - present
 :::
