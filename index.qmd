@@ -38,7 +38,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am passionate about revealing the genetic variations that drive complex human diseases through my work in functional genomics. With a strong background in molecular biology, genetics, and bioinformatics, I bridge the gap between molecular and computational research to advance innovation in precision medicine. I thrive on collaborating with diverse wet and dry lab teams to turn discoveries into tangible progress.
+I am passionate about revealing the genetic variations that drive **complex human diseases** through my work in **functional genomics**. With a strong background in molecular biology, genetics, and bioinformatics, I bridge the gap between molecular and computational research to advance innovation in precision medicine. I thrive on collaborating with diverse wet and dry lab teams to turn discoveries into tangible progress.
 
 <br />
 
