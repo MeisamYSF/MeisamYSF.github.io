@@ -1,6 +1,6 @@
 ---
 title: "Meisam Yousefi, Ph.D."
-subtitle: "Research Fellow at Duke-NUS Medical School"
+subtitle: "Postdoctoral Researcher at Montreal Heart Institute, University of Montreal"
 image: media/4.jpg
 toc: false
 about:
@@ -34,11 +34,11 @@ about:
     #   href: https://www.scopus.com/authid/detail.uri?authorId=57220100395
     - icon: envelope
       text: email
-      href: mailto:yousefi@nus.edu.sg
+      href: mailto:meisam.yousefi@mhi-humangenetics.org
 ---
 
 ::: {#hero-heading}
-I have a solid foundation in molecular biology, genetics, and microbiology, with a keen interest in data science and bioinformatics. I'm passionate about using my molecular and computational skills to tackle infectious diseases, with a special focus on emerging and re-emerging viral pathogens such as Dengue virus and SARS-CoV-2. As a team player, I excel in collaborating with both wet and dry lab researchers and engaging diverse audiences.
+I am passionate about revealing the genetic variations that drive complex human diseases through my work in functional genomics. With a strong background in molecular biology, genetics, and bioinformatics, I bridge the gap between molecular and computational research to advance innovation in precision medicine. I thrive on collaborating with diverse wet and dry lab teams to turn discoveries into tangible progress.
 
 <br />
 
@@ -57,5 +57,9 @@ I have a solid foundation in molecular biology, genetics, and microbiology, with
 
 ### Experience:
 
--   **Duke-NUS Medical School** \| Research Fellow \| 2024 - present
+-   **Institut de cardiologie de Montréal** \| Postdoctoral Research Fellow \| 2025 - present
+
+-   **Université de Montréal** \| Postdoctoral Research Fellow \| 2025 - present
+
+-   **Duke-NUS Medical School** \| Research Fellow \| 2024 - 2025
 :::
