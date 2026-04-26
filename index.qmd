@@ -1,6 +1,6 @@
 ---
 title: "Meisam Yousefi, Ph.D."
-subtitle: "Postdoctoral Researcher at Montreal Heart Institute, University of Montreal"
+subtitle: "Postdoctoral Fellow at Montreal Heart Institute, University of Montreal"
 image: media/4.jpg
 toc: false
 about:
@@ -42,13 +42,13 @@ I am a bioinformatician with a joint PhD from National University of Singapore (
 
 Core Expertise:
 
--  Multi-Omics Analysis: processing and integrating bulk/single-cell, short/long read genomics, transcriptomics, and epigenomics (e.g., RNAseq, ATACseq, chipseq, snMultiome, Fiberseq)
+-   Multi-Omics Analysis: processing and integrating bulk/single-cell, short/long read genomics, transcriptomics, and epigenomics (e.g., RNAseq, ATACseq, chipseq, snMultiome, Fiberseq)
 
--  Statistical Genetics: analyzing biobank-scale GWAS datasets (e.g., UKBiobank) to identify disease associations.
+-   Statistical Genetics: analyzing biobank-scale GWAS datasets (e.g., UKBiobank) to identify disease associations.
 
--  Functional Genomics: design, execution, and downstream analysis of genome-wide CRISPR perturbation screens and targeted CRISPR editing.
+-   Functional Genomics: design, execution, and downstream analysis of genome-wide CRISPR perturbation screens and targeted CRISPR editing.
 
--  Data analysis: proficient in R, python, and bash scripting, as well as data modeling and visualization. Translating massive genomics datasets into biological functional insights for complex trait genetics.
+-   Data analysis: proficient in R, python, and bash scripting, as well as data modeling and visualization. Translating massive genomics datasets into biological functional insights for complex trait genetics.
 
 <br />
 
