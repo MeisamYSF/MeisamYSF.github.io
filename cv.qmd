@@ -1,6 +1,6 @@
 ---
 title: Curriculum vitae
-date: 2024-12-03
+date: 2026-04-29
 published-title: CV last updated
 engine: knitr
 freeze: true
