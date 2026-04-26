@@ -16,7 +16,7 @@ website:
       - cv.qmd
       
   page-footer: 
-    center: "Created with Quarto -- Meisam Yousefi &copy; 2024"
+    center: "Created with Quarto -- Meisam Yousefi &copy; 2026"
 
 format:
   html:

@@ -42,7 +42,7 @@ I am a bioinformatician with a joint PhD from National University of Singapore (
 
 Core Expertise:
 
--   Multi-Omics Analysis: processing and integrating bulk/single-cell, short/long read genomics, transcriptomics, and epigenomics (e.g., RNAseq, ATACseq, chipseq, snMultiome, Fiberseq)
+-   Multi-Omics Analysis: processing and integrating bulk/single-cell, short/long read genomics, transcriptomics, and epigenomics (e.g., RNA-seq, ATAC-seq, ChIP-seq, snMultiome, Fiber-seq)
 
 -   Statistical Genetics: analyzing biobank-scale GWAS datasets (e.g., UKBiobank) to identify disease associations.
 
